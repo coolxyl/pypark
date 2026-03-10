@@ -1,0 +1,198 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Project specific
+# 配置文件（包含敏感信息）
+strategies/config.ini
+strategies/config.local.ini
+
+# 日志文件
+*.log
+logs/
+.kiro/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# 数据文件
+*.csv
+*.xlsx
+*.xls
+data/
+output/
+results/
+
+
+
+# 缓存文件
+.cache/
+*.cache
+
+# OS 文件
+.DS_Store
+Thumbs.db
+.directory
+
+# 编辑器备份
+*.bak
+*.swp
+*.swo
+*~
+
+# 虚拟环境（如果在项目目录中）
+venv/
+env/
+ENV/
+
+# 测试生成的文件
+test_fixes.py
+analyze_requirements.py
+.pytest_cache/
+
+# 文档生成
+docs/_build/
+site/
+
+# 打包文件
+*.whl
+*.tar.gz
+*.zip
+
+# 其他
+.coverage
+htmlcov/
+.tox/

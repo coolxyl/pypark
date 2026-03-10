@@ -1,0 +1,10 @@
+# 核心数据处理库
+pandas~=2.3.3
+numpy~=2.2.6
+
+# 股票数据获取库
+requests~=2.32.5
+easyquotation~=0.7.7
+akshare>=1.0.0
+
+# 注意：qmt.xtquant 是本地库，不需要在 requirements.txt 中指定
