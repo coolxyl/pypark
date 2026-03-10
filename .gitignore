@@ -133,9 +133,7 @@ dmypy.json
 *.sublime-workspace
 
 # Project specific
-# 配置文件（包含敏感信息）
-strategies/config.ini
-strategies/config.local.ini
+
 
 # 日志文件
 *.log
